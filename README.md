@@ -20,7 +20,6 @@ The following video is an animation of Natural bridge using lidar data.
 ## Contour Map of Natural Bridge
 
 ![Mapbox pic](Mapbox.png)
-![mapbox](Map/index.html)
 
 Follow [this link](https://api.mapbox.com/styles/v1/ktho228/ckombkvvn17y217qrtt4l5ucb.html?fresh=true&title=view&access_token=pk.eyJ1Ijoia3RobzIyOCIsImEiOiJja28wZ3V3Y20wYmdnMm9sY3JmMHh1ZTJiIn0.-taUs202U-vXy4TGYsQg0A) to see the Mapbox map of Natural Bridge and Battleship rock.
 
